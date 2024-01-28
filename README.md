@@ -2,6 +2,11 @@
 
 <img width="631" alt="image" src="https://github.com/Mansi-2706/Hospitality_Revenue_Analysis_Dashboard/assets/131741818/c4412d2e-4777-4627-a1ff-c4c32af84981">
 
+# Dashboard:
+
+<img width="635" alt="image" src="https://github.com/Mansi-2706/Hospitality_Revenue_Analysis_Dashboard/assets/131741818/006ec1ce-339c-4f35-a336-9866e7458a46">
+
+
 Introduction:
 
 Welcome to the Hospitality Revenue Analysis Dashboard, designed to provide data-driven insights for AtliQ Grands to regain their market share and revenue in the luxury/business hotels category. As a data analyst, I have been tasked with leveraging historical data to create a comprehensive dashboard and provide relevant insights. 
